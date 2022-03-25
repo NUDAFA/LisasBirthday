@@ -33,14 +33,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/3gl5OEZ8j_o"
-                }, 
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"autoplay"
+                 "value":"https:\/\/download.mp3oops.fun\/k\/Wes-Alane.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -68,14 +63,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/XaKPbXXbtWY"
-                }, 
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"autoplay"
+                 "value":"https:\/\/nl02.ytmp3cut.com\/cca5744d5db0f2be5099d\/Rolf%20Zuckowski%20Wie%20sch%C3%B6n%2C%20dass%20du%20geboren%20bist.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
